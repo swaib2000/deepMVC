@@ -61,12 +61,7 @@ python train.py --dataset msrcv1
 - Integrating Large Language Models (LLMs) for Hybrid Representations
 
 ## 📌 Contributors
-- Your Name (@your-github-username)
+- Swaib Ilias Mazumder(@swaib2000)
 
-## 🌟 License
-MIT License
 
----
-
-### ✅ Next Step: Shall I push this README.md to your GitHub repo? 🚀
 
